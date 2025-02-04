@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 80 px;
+    color: rgb(255, 0, 170)
+}
+
+p {
+    color:rgb(0, 255, 170);
+    font-size: 60px;
+}
